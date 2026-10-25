@@ -16,7 +16,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/contrabag.file-size-on-picker@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/contrabag.file-size-on-picker@1.0.0.zip",
           "sha256": "98b588e76d6effc5830166fcc69da648012ec8a9eec851500dc72384255866c3",
           "size": 1860,
           "dependencies": {
@@ -43,7 +43,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/dev.benjii.gtci@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/dev.benjii.gtci@1.0.0.zip",
           "sha256": "f4f0ff3b0f96975b20d1392ba67710ad868fd3867991c10a6550da27f0b5d6b8",
           "size": 853,
           "dependencies": {
@@ -71,7 +71,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/k1ngop.anonymous-file-names@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/k1ngop.anonymous-file-names@1.0.0.zip",
           "sha256": "460d8d3f81552299a46f8da13b28d0be358f15d9942bc58135aa5bd4ad4b5584",
           "size": 1773,
           "dependencies": {
@@ -95,7 +95,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/k1ngop.dashless@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/k1ngop.dashless@1.0.0.zip",
           "sha256": "6e42fae547e82975cbdce124d7f7be7a73bb8d5a2a9a5f6463d45c07dc8e8d88",
           "size": 1132,
           "dependencies": {
@@ -119,7 +119,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/k1ngop.disable-call-idle@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/k1ngop.disable-call-idle@1.0.0.zip",
           "sha256": "268f8cd5558a5e05f713aa742a82301389cf43e95c7b73f61859c8dae66187d8",
           "size": 729,
           "dependencies": {
@@ -146,7 +146,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/k1ngop.no-idle@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/k1ngop.no-idle@1.0.0.zip",
           "sha256": "db4e8f243c2dd9e1ca2f1676473364103b0b01edba5472d5b4eb3a43303be6c8",
           "size": 639,
           "dependencies": {
@@ -170,7 +170,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.better-chat-buttons@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.better-chat-buttons@1.0.0.zip",
           "sha256": "5ac5663ad0f93f30206957b7a014003ea6520d87cd3790d67f4dc343a9b0c55e",
           "size": 1969,
           "dependencies": {
@@ -194,7 +194,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.better-typing-indicators@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.better-typing-indicators@1.0.0.zip",
           "sha256": "06cb8f7a6858e162320e3f11b1dfe4442a574daedc0d6c7130f0667f557b0b7e",
           "size": 14869,
           "dependencies": {
@@ -218,7 +218,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.block-youtube-ads@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.block-youtube-ads@1.0.0.zip",
           "sha256": "2715d1d50860ca14fbdd2d2cfef6c09e6911f80fc0a24d41d069138aa9eb9cdc",
           "size": 11690,
           "dependencies": {
@@ -248,7 +248,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.fake-nitro@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.fake-nitro@1.0.0.zip",
           "sha256": "e2e9a21f1f674b8ccd0888a2b14a3f471115d835d51b784dadc69f87dd2a134d",
           "size": 5662,
           "dependencies": {
@@ -271,7 +271,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.google-sans-flex@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.google-sans-flex@1.0.0.zip",
           "sha256": "46296844fb91f93523b422b36b500840f0c3df9a3502bc837ce37ce132793f57",
           "size": 2424236,
           "dependencies": {
@@ -298,7 +298,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.hide-blocked-messages@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.hide-blocked-messages@1.0.0.zip",
           "sha256": "89d47806cae93ad66283314afe54048abf02dee606c53f44fb10ea4b1b9bfbed",
           "size": 1422,
           "dependencies": {
@@ -322,7 +322,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.join-as-lurker@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.join-as-lurker@1.0.0.zip",
           "sha256": "feeb1fa4bce6c7ce989cec22851ebac66c0077d3804265b54e4c5faf69b7a2e4",
           "size": 1236,
           "dependencies": {
@@ -346,7 +346,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.link-alert-copy@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.link-alert-copy@1.0.0.zip",
           "sha256": "5e1469cc0e262aa82f29153935d539140cb8f9ae78b7204cf12dcde384e49468",
           "size": 934,
           "dependencies": {
@@ -370,7 +370,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.mention-avatars@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.mention-avatars@1.0.0.zip",
           "sha256": "e42f44b6e5fe7daf5c8c45f6283f29158a3fc073e6174e237d94fe42bfb4c128",
           "size": 13739,
           "dependencies": {
@@ -394,7 +394,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.message-link-preview@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.message-link-preview@1.0.0.zip",
           "sha256": "b31cf18cece202deeefb14059b01448de22f4168dc074a91c034ce626a092318",
           "size": 33402,
           "dependencies": {
@@ -418,7 +418,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.message-logger@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.message-logger@1.0.0.zip",
           "sha256": "51c9690fc08cc77e207fbd840967bcb55258e1ccb3e06ed8c7f33283a07c38ea",
           "size": 22349,
           "dependencies": {
@@ -442,7 +442,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.reactions-sheet-fix@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.reactions-sheet-fix@1.0.0.zip",
           "sha256": "e3ec7ff0140caf4cdf5b466bc6041b921463b2d0aada6acd45268acefc251db0",
           "size": 1791,
           "dependencies": {
@@ -466,7 +466,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.shiki-codeblocks@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.shiki-codeblocks@1.0.0.zip",
           "sha256": "0ef68a62eaa343e4226a648fd58615068c5b957c54b67fc47d4b4a521129b1d3",
           "size": 749481,
           "dependencies": {
@@ -490,7 +490,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.show-timeout-duration@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.show-timeout-duration@1.0.0.zip",
           "sha256": "071e8abe561874fea3ed683e4e5a7bf3e4fac2bc5fa032e99c218d6bb0e03e6f",
           "size": 21017,
           "dependencies": {
@@ -514,7 +514,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.silent-typing@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.silent-typing@1.0.0.zip",
           "sha256": "591da6ca0e0adf83eda41cb2437c21960025ff5f33360b113a41308ab2bdb901",
           "size": 1995,
           "dependencies": {
@@ -541,7 +541,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.tenor-gif-search@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.tenor-gif-search@1.0.0.zip",
           "sha256": "4df2f877ec1f6c88c010353ed1da81cf5cd68ef5c7ee48c14be877c96503b715",
           "size": 2322,
           "dependencies": {
@@ -565,7 +565,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/palmdevs.who-reacted@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/palmdevs.who-reacted@1.0.0.zip",
           "sha256": "85ae8d292b969e93bd4c517b26d2b657889e933fbee18ff24ffbacfaf64e12da",
           "size": 28127,
           "dependencies": {
@@ -594,7 +594,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/valenced.api.themes@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/valenced.api.themes@1.0.0.zip",
           "sha256": "3dab391b584a5b168305c78855afaf997054514e1039d20c4c6e70af09131a32",
           "size": 64959,
           "dependencies": {
@@ -621,7 +621,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/valenced.developer-kit@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/valenced.developer-kit@1.0.0.zip",
           "sha256": "5c40e23a74eabff138ac48228e9652ad6146d739de6ff8cfef793a4f00e10ca8",
           "size": 21989,
           "dependencies": {
@@ -656,7 +656,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/valenced.settings.themes@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/valenced.settings.themes@1.0.0.zip",
           "sha256": "94e6ca79bc875f3715698d42c12bc7668c87291d25dbffb06a7770a14caae2b4",
           "size": 9398,
           "dependencies": {
@@ -685,7 +685,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/valenced.themes.legacy@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/valenced.themes.legacy@1.0.0.zip",
           "sha256": "9563acb8ce7a8b2594dc1c364c7aae9fd0abe0a36f23c9408cbca3ec9250dbee",
           "size": 2796,
           "dependencies": {
@@ -716,7 +716,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/wolfie.global-badges@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/wolfie.global-badges@1.0.0.zip",
           "sha256": "d1e0a13cf06b5cdcd9521d2539e0428120f3582195c64e79a36e5aea1e49d0dc",
           "size": 4351,
           "dependencies": {
@@ -740,7 +740,7 @@
       },
       "versions": {
         "1.0.0": {
-          "url": "https://valenced.github.io/valenced-community-plugins/pool/wolfie.sound-controls@1.0.0.zip",
+          "url": "https://community.valenced.app/pool/wolfie.sound-controls@1.0.0.zip",
           "sha256": "7dc34241d4fff089c5e46811d8d024463d8bfa5b79d08d7bd6f24bd45bf879e5",
           "size": 2449,
           "dependencies": {
