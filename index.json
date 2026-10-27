@@ -57,6 +57,63 @@
         }
       }
     },
+    "dev.cocobo1.command-lib": {
+      "name": "Coco's Command Lib",
+      "description": "Provides a library to make making commands easier",
+      "author": "cocobo1 <767650984175992833> (https://cocobo1.dev \"Website\") (https://github.com/c0c0b01 \"GitHub\") (https://github.com/sponsors/c0c0b01 \"Donate\")",
+      "contributors": [
+        "kmmiio99o <879393496627306587> (https://github.com/kmmiio99o \"GitHub\")"
+      ],
+      "icon": "AppsIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/dev.cocobo1.command-lib@1.0.0.zip",
+          "sha256": "d28ac1b2cfa03b628624075e0a7ca02b97699c8384188d1c956856eecdd852c0",
+          "size": 2875,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "dev.cocobo1.petpet": {
+      "name": "PetPet",
+      "description": "pet anyone with /petpet",
+      "author": "cocobo1 <767650984175992833> (https://cocobo1.dev \"Website\") (https://github.com/c0c0b01 \"GitHub\") (https://github.com/sponsors/c0c0b01 \"Donate\")",
+      "contributors": [
+        "Wolfie <347096063569559553>"
+      ],
+      "icon": "EmojiSmilingFaceWithHeartsIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/dev.cocobo1.petpet@1.0.0.zip",
+          "sha256": "ce9742b2560b00542dcdcb43030341b8df1279b20e9612af6c4fcea23ae69793",
+          "size": 1911,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "dev.cocobo1.command-lib": {
+              "version": ">=1 <2"
+            }
+          }
+        }
+      }
+    },
     "k1ngop.anonymous-file-names": {
       "name": "Anonymous File Names",
       "description": "Randomizes file names before you upload them.",
