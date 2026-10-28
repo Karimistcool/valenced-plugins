@@ -217,6 +217,30 @@
         }
       }
     },
+    "mxtiy.audiofix": {
+      "name": "Bluetooth Audio Fix",
+      "description": "Prevents Discord from switching to hands-free mode during calls.",
+      "author": "NoReplyUI5 <1053918356375351386> (https://github.com/NoReplyUI5 \"GitHub\")",
+      "icon": "voice_bar_bluetooth",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/mxtiy.audiofix@1.0.0.zip",
+          "sha256": "931694b31afa17d308209945fb3aad744a01a317a98298f16fab00f9b2295e08",
+          "size": 796,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "palmdevs.better-chat-buttons": {
       "name": "Better Chat Buttons",
       "description": "Hiding all annoying chat buttons, or making them never collapse, all configurable.",
