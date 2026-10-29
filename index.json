@@ -671,13 +671,26 @@
       ],
       "icon": "PaintPaletteIcon",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "versions": {
         "1.0.0": {
           "url": "https://community.valenced.app/pool/valenced.api.themes@1.0.0.zip",
           "sha256": "3dab391b584a5b168305c78855afaf997054514e1039d20c4c6e70af09131a32",
           "size": 64959,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": ">=352.2"
+            }
+          }
+        },
+        "1.0.1": {
+          "url": "https://community.valenced.app/pool/valenced.api.themes@1.0.1.zip",
+          "sha256": "9fe44a0f16635b5eb835c9355ca9a5255addd7e028ea3a963a98a55e469be3ab",
+          "size": 65380,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
