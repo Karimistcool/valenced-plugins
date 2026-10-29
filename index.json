@@ -784,6 +784,30 @@
         }
       }
     },
+    "wolfie.add-attachments": {
+      "name": "Add Attachments",
+      "description": "Add new attachments when editing messages.",
+      "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
+      "icon": "PencilSparkleIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://community.valenced.app/pool/wolfie.add-attachments@1.0.0.zip",
+          "sha256": "aa60a429c78c57fb1135cdd42c141c34577f60e9a32e2d8ddbf73ba21db29d77",
+          "size": 2384,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "wolfie.global-badges": {
       "name": "Global Badges",
       "description": "Show profile badges from other Discord clients and BadgeVault.",
